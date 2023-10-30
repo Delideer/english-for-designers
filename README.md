@@ -1,7 +1,7 @@
 ## english-for-designers
 
-# English for Designers
-This is an index for all the assignments.
+# One Word
+This is an index for the One Word assignment.
 
 ## An essay about the word naive
 
