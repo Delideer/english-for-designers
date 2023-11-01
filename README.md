@@ -1,15 +1,6 @@
 # English for Designers
 
-# One Word
-This is an index for the One Word assignment.
-
-## An essay about the word naive
-
-1. [First draft](01-one-word/first-draft.html)
-
-# English for Designers
-
-This is an index for all the assignments.
+This is an index for the all the assignment.
 
 ## An essay about the word naive
 
