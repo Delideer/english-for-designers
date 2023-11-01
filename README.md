@@ -6,7 +6,7 @@ This is an index for the all the assignment.
 
 - [First Draft](/01-one-word/first-draft.md)
 - [Revision](/01-one-word/revision.md)
-- [Edit](/01-one-word/edit.md)
+- [Edit](/01-one-word/index.md)
 
 
 
