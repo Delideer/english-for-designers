@@ -1,7 +1,10 @@
+- [First Draft](first-draft.md) 
+- [Revision](revision.md) 
+- [Edit](index.md) 
+
+## First Draft
+
 # Naive
-
-
-## FIRST DRAFT
 
 Naive. That one word which used to have a rather negative connotation to me, often making me feel insecure.
 
