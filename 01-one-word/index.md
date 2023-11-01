@@ -1,7 +1,7 @@
-# Naive
+# “Naive”
 
-
-## EDITED
+01 Nov 2023
+- - -
 
 Naive. This word used to have a negative meaning in my vocabulary, it made me feel insecure.
 
