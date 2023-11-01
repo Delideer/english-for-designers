@@ -1,7 +1,8 @@
 # “Naive”
 
 01 Nov 2023
-- - -
+
+![naive](https://github.com/Delideer/english-for-designers/assets/148876928/24621675-df0f-4d36-8beb-a39450888386)
 
 Naive. This word used to have a negative meaning in my vocabulary, it made me feel insecure.
 
