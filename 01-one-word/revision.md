@@ -1,6 +1,10 @@
-# Naive
+- [First Draft](first-draft.md) 
+- [Revision](revision.md) 
+- [Edit](index.md) 
 
-# Revision
+## Revision
+
+# Naive
 *A few tips based on the Hemingway editor (highlighted words later removed/replaced)*
 
 
