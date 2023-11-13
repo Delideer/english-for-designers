@@ -37,7 +37,7 @@ A few of my projects I did recently.
 
 
 
-### A concept poster for a music festival
+### A poster for a music festival
 
 
 ![Neon blue and purple background with a yellow highlighted names of singers and bands and blue colored edge of a rock on the side.](music-festival-poster.jpg)
@@ -51,7 +51,7 @@ A few of my projects I did recently.
 
 
 
-### Christmas post cards concept
+### Christmas cards 
 
 
 ![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a pink background with a yellow sign PF 2023.](xmas-postcard-1.jpg)
@@ -64,7 +64,7 @@ A few of my projects I did recently.
 
 
 
-### A book cover concept
+### A book cover 
 
 
 ![Black and white photo of Sex Pistols members in a chessboard composition on the left and black rectangle with a yellow sign EXISTENTIALIST in the middle and black and white photo of Sex Pistols members next to each other on the right.](book-cover-concept.jpg)
