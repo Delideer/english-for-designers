@@ -10,6 +10,8 @@
 
 ![blonde girl wearing a jacket and sunglasses in a black and white picture](Koukalova-headshot.jpg)
 
+**Adéla Koukalová**
+
 *A graphic design student with signature art style.*
 
 
