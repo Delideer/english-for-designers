@@ -1,90 +1,74 @@
 # First Impression
 
-<!-- This is a comment, only visible to the author: Add a link to your presentation. -->
-<!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
-<!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf)
+- [Presentation](Koukalova-draft-first-impression-2023.pdf)
 - [About](#about)
 - [Featured Projects](#featured-projects)
-- [Notes](#notes)
 
 ## About
 
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Write an alternative text description.](img/surname-headshot.jpg)
+![blonde girl wearing a jacket and sunglasses in a black and white picture](Koukalova-headshot.jpg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
-A graphic design student with signature art style.
+*A graphic design student with signature art style.*
 
 
 ## Featured Projects
 
-A short description about the work.
 A few of my projects I did recently.
+
+
+
+
 
 ### A pidgeon squad in front of a club
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Three pidgeons sitting on top of a bridge in front of a club at night.](A-pidgeon-squad-original.jpg)
+![Three pidgeons sitting on top of a bridge in front of a club during a day](A-pidgeon-squad.jpg)
 
-- A short description about the project — *the what*. A photomontage of a photo I randomly took while practicing photography. The original photo seemed too plain to me, so I decided to give it a little makeover.
-- A short description about the significance of the project — *the whys*. This photomontage was somewhat crucial to me, because I learned a lot by this in terms of editing a photo. 
-- A short description about the outcome of the project — *the result or takeaway*. This work made me realize that with a bit of imagination, you can turn a plain photo into a decent art piece.
+
+- A photomontage of a photo I randomly took while practicing photography. The original photo seemed too plain to me, so I decided to give it a little makeover.
+- The whole working process of this was crucial to me because I learned a lot in terms of photo editing. 
+- This little project made me realize that with a bit of imagination, you can turn a plain photo into a decent piece of art.
+
+
 
 
 ### A concept poster for a music festival
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Neon blue and purple background with a yellow highlighted names of singers and bands and blue colored edge of a rock on the side.](music-festival-poster.jpg)
 
-- A short description about the project — *the what*. Concept posters for United Islands of Prague Festival.
+- A concept poster for the United Islands of Prague Festival.
 
-- A short description about the significance of the project — *the whys*. The path of making these was a bit tricky in the beginning due to the abstract topic – music outside. I had to think outside the box.
+- The path of making these was a bit tricky in the beginning due to the rather abstract topic – music outside. I had to think outside the box.
 
-- A short description about the outcome of the project — *the result or takeaway*. Fairly challenging project, but the newly learned skills and the result felt rewarding to me.
+- Fairly challenging project, but the newly learned skills and the final result felt rewarding.
+
+
 
 
 ### Christmas post cards concept
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a pink background with a yellow sign PF 2023.](xmas-postcard-1.jpg)
+![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a purple background with a pink sign PF 2023.](xmas-postcard-2.jpg)
 
-- A short description about the project — *the what*. A concept for Christmas post cards as a school assignment.
-- A short description about the significance of the project — *the whys*. I had fun while making these because we weren’t limited to anything in terms of the design. 
-- A short description about the outcome of the project — *the result or takeaway*. I love the result of this because I got to create an unconventional, unique postcard without limiting myself to a plain Christmas postcard design. 
-
-
-### Personal side project
-
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
-
-![Write an alternative text description.](img/featured-project-01.png)
-
-- A short description about the project — *the what*. This is my own manga comics that has been my personal side project.  
-- A short description about the significance of the project — *the whys*. This project was originally a graduation project in my senior year of high school. Soon after, I’ve realized how much I had enjoyed working on it and want to continue.
-- A short description about the outcome of the project — *the result or takeaway*. My decision to continue with this project was sort of a breaking point of discovering something that has become one of my greatest passions as of today.
-
-### Featured Project 5 Title 
-
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
-
-![Write an alternative text description.](img/featured-project-01.png)
-
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
+- A concept for Christmas cards as a school assignment.
+- I had fun while making these because we weren’t limited to anything in terms of the design. 
+- I love the result of this because I got to create an unconventional, unique postcard without limiting myself to just make a plain Christmas card design. 
 
 
-## Notes
 
-Numbered comments about each featured project as presenter notes or speaking points.
 
-1. …
-2. …
-3. …
-<!-- And so on. -->
+### A book cover concept
+
+
+![Black and white photo of Sex Pistols members in a chessboard composition on the left and black rectangle with a yellow sign EXISTENTIALIST in the middle and black and white photo of Sex Pistols members next to each other on the right.](book-cover-concept.jpg)
+
+- This is a book cover I did for a typography class assignment. 
+- Creating this helped me to think more freely while designing because there were no limitations with the book topic or design. 
+- It took me a while to come up with this, but I eventually managed to design it exactly the way I wanted to.
+
+
