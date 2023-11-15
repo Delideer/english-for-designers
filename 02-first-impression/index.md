@@ -51,15 +51,15 @@ A few of my projects I did recently.
 
 
 
-### Christmas cards 
+### Happy New Year's cards 
 
 
 ![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a pink background with a yellow sign PF 2023.](xmas-postcard-1.jpg)
 ![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a purple background with a pink sign PF 2023.](xmas-postcard-2.jpg)
 
-- A concept for Christmas cards as a school assignment.
+- A concept for New Year's cards as a school assignment.
 - I had fun while making these because we weren’t limited to anything in terms of the design. 
-- I love the result of this because I got to create an unconventional, unique postcard without limiting myself to just make a plain Christmas card design. 
+- I love the result of this because I got to create an unconventional, unique postcard without limiting myself to just make a plain New Year's card design. 
 
 
 
