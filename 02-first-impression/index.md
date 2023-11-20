@@ -14,6 +14,8 @@
 
 *A graphic design student with signature art style.*
 
+![Art exists because life is not enough.](art-exists-because-quote.jpg)
+
 
 ## Featured Projects
 
@@ -69,8 +71,18 @@ A few of my projects I did recently.
 
 ![Black and white photo of Sex Pistols members in a chessboard composition on the left and black rectangle with a yellow sign EXISTENTIALIST in the middle and black and white photo of Sex Pistols members next to each other on the right.](book-cover-concept.jpg)
 
-- This is a book cover I did for a typography class assignment. 
+- This is a book cover I did for a typography class assignment. (*Note: The back on the left, the spine in the middle and the front of the book cover on the right.*)
 - Creating this helped me to think more freely while designing because there were no limitations with the book topic or design. 
 - It took me a while to come up with this, but I eventually managed to design it exactly the way I wanted to.
+
+
+
+  ## *Thanks for letting me introduce myself.*
+
+
+
+  *And remember:*
+
+  ![Your fear of looking stupid is holding you back. Graffiti quote on titles.](your-fear-of-looking-quote.jpg) 
 
 
