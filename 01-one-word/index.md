@@ -6,6 +6,7 @@ by Adéla Koukalová
 
 
 **naive.gif** (https://www.pinterest.com/pin/312789136632720592/)
+
 ##
 
 
@@ -25,5 +26,6 @@ Being naive used to represent something bad, pitiful, and not very cool in my ey
 Thanks to my new outlook, I changed the negative perception of myself. It was an illusion, an obstacle preventing me from becoming who I am today. So what if someone thinks I’m naive? Let me stay that way. It might be true that too much naivety isn’t good for you. But that doesn’t mean you should always be rational and never make mistakes. You’ll lose a sense of hope and excitement. Without naivety, one becomes heartless. And without heart, one can’t love. If you can’t love, life is pointless. And don't forget to give Naive a fistbump next time you meet up.
 
 ##
+
 - [First Draft](/01-one-word/first-draft.md)
 - [Revision](/01-one-word/revision.md)
