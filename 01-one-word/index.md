@@ -1,6 +1,8 @@
 # “Naive”
 
-*by Adéla Koukalová*
+by Adéla Koukalová
+
+01 Nov 2023
 
 
 **naive.gif** (https://www.pinterest.com/pin/312789136632720592/)
