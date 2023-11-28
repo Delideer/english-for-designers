@@ -5,7 +5,7 @@
 *01 Nov 2023*
 
 
-[naive.gif](https://www.pinterest.com/pin/312789136632720592/)
+[naive.gif](https://i.pinimg.com/originals/26/55/61/2655615d0dc9bc387bc081cd8085b80f.gif)
 
 
 Naive. This word used to fiddle with my insecurity quite a bit. 
