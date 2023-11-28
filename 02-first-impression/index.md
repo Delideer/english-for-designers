@@ -8,11 +8,20 @@
 ## About
 
 
-![blonde girl wearing a jacket and sunglasses in a black and white picture](Koukalova-headshot.jpg)
+![rebelious blonde girl wearing a jacket and sunglasses in a black and white picture](Koukalova-headshot.jpg)
 
 **Adéla Koukalová**
 
-*A graphic design student with signature art style.*
+
+
+Hi! I'm Adela. A graphic design student with signature art style. I like to do things my way, unapologetically.
+
+Sure, when someone gives me a specific assignment, I follow it. But whenever I get to design something on my own, only then I can truly express myself without being tied down by someone's awfully specific ideas. I think that us artists in general are often looked down upon by certain people. Those are often our clients. Maybe it's because we have a different perspective on things. On life.
+
+But hey, shouldn't we be praised for the ability to create something new instead of being frowned upon for being “too much”? I used to have my fair share of doubts before I decided to pursue graphic design. Pretty early on, though, I realized something crucial - people will always hate or criticize something. And that's when it's my turn, an aspiring graphic designer, to prove them wrong.
+
+
+
 
 ![Art exists because life is not enough.](art-exists-because-quote.jpg)
 
