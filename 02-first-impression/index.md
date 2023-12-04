@@ -14,11 +14,11 @@
 
 
 
-Hi! I'm Adela. A graphic design student with signature art style. I like to do things my way, unapologetically.
+Hi there! I'm Adela. A graphic design student with signature art style. I like to do things my way, unapologetically.
 
-Sure, when someone gives me a specific assignment, I follow it. But whenever I get to design something on my own, only then I can truly express myself without being tied down by someone's awfully specific ideas. I think that us artists in general are often looked down upon by certain people. Those are often our clients. Maybe it's because we have a different perspective on things. On life.
+Whenever I get to design something on my own, only then can I truly express myself without the constraints of awful ideas or rules. Artists are often misunderstood. We have a different perspective on things. On life.
 
-But hey, shouldn't we be praised for the ability to create something new instead of being frowned upon for being “too much”? I used to have my fair share of doubts before I decided to pursue graphic design. Pretty early on, though, I realized something crucial - people will always hate or criticize something. And that's when it's my turn, an aspiring graphic designer, to prove them wrong.
+And that‘s when it‘s my turn, an aspiring graphic designer, to prove them wrong and design something amazing.
 
 
 
@@ -34,7 +34,7 @@ A few of my projects I did recently.
 
 
 
-### A pidgeon squad in front of a club
+### Night Club Photomontage
 
 
 ![Three pidgeons sitting on top of a bridge in front of a club at night.](A-pidgeon-squad-original.jpg)
@@ -48,7 +48,7 @@ A few of my projects I did recently.
 
 
 
-### A poster for a music festival
+### Prague Music Festival Poster
 
 
 ![Neon blue and purple background with a yellow highlighted names of singers and bands and blue colored edge of a rock on the side.](music-festival-poster.jpg)
@@ -62,7 +62,7 @@ A few of my projects I did recently.
 
 
 
-### Happy New Year's cards 
+### 2023 New Year’s Cards
 
 
 ![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a pink background with a yellow sign PF 2023.](xmas-postcard-1.jpg)
@@ -75,7 +75,7 @@ A few of my projects I did recently.
 
 
 
-### A book cover 
+### Existentialist Book Cover
 
 
 ![Black and white photo of Sex Pistols members in a chessboard composition on the left and black rectangle with a yellow sign EXISTENTIALIST in the middle and black and white photo of Sex Pistols members next to each other on the right.](book-cover-concept.jpg)
@@ -86,7 +86,7 @@ A few of my projects I did recently.
 
 
 
-  ## *Thanks for letting me introduce myself.*
+  ## *Thanks!*
 
 
 
