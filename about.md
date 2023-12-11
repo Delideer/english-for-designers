@@ -1,7 +1,7 @@
 # About
 
 
-![rebelious blonde girl wearing a jacket and sunglasses in a black and white picture](Koukalova-headshot.jpg)
+![rebelious blonde girl wearing a jacket and sunglasses in a black and white picture](/img/Koukalova-headshot.jpg)
 
 ## Adéla Koukalová
 
