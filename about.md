@@ -13,6 +13,8 @@ I like to do things my way, unapologetically. Whenever I get to design something
 
 And that‘s when it‘s my turn, an aspiring graphic designer, to prove them wrong and design something amazing.
 
+## More about me
+
 **I‘ve always been the quiet kid**,
 ever since kindergarden. A very observant, though.
 Since that time, I started noticing just how badly
