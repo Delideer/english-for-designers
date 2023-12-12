@@ -1,13 +1,14 @@
-# English for Designers
 
-This is an index for the all the assignments.
+- [**Adéla Koukalová**](../)
+    - [Work](../work/index.md)
+    - [Writing](../writing/index.md)
+    - [About](../about.md)
 
+## Some writing I’ve done
 
-## One Word Essay
+### [Naive](naive.md) 
 
-- [First Draft](first-draft.md)
-- [Revision](revision.md)
-- [Edit](naive.md)
+Give it a read.
 
 
 
