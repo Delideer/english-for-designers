@@ -1,12 +1,10 @@
 # English for Designers
 
-This is an index for the all the assignment.
+## Contents
 
-## An essay about the word naive
-
-- [First Draft](/01-one-word/first-draft.md)
-- [Revision](/01-one-word/revision.md)
-- [Edit](/01-one-word/naive.md)
+1. [One Word](01-one-word/)
+2. [First Impression](02-first-impression/)
+3. [Content First](03-content-first/)
 
 
 
