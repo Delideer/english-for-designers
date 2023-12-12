@@ -3,7 +3,7 @@
     - [Writing](writing/index.md)
     - [About](about.md)
 
-![rebelious blonde girl wearing a jacket and sunglasses in a black and white picture](/img/Koukalova-headshot.jpg)
+![rebelious blonde girl wearing a jacket and sunglasses in a black and white picture](02-first-impression/img/Koukalova-headshot.jpg)
 
 ## Hi there! I'm Adela. A graphic designer with attitude, style, and punk rock ethos.
 
