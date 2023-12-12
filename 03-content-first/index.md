@@ -8,5 +8,5 @@
 
 ## First Impression
 
-- [Draft content](/02-first-impression)
+- [Draft content](/02-first-impression/index.md)
 
