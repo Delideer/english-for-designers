@@ -112,6 +112,6 @@ A few of my projects I did recently.
 
 
   ## Check out my short essay based on the topic “One Word“:
-- [Naive](/02-first-impression/naive.md)
+- [Naive](/writing/naive.md)
 
 
