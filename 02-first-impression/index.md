@@ -57,10 +57,7 @@ A few of my projects I did recently.
 ![Three pidgeons sitting on top of a bridge in front of a club during a day](img/A-pidgeon-squad.jpg)
 
 
-- A photomontage of a photo I randomly took while practicing photography. The original photo seemed too plain to me, so I decided to give it a little makeover.
-- The whole working process of this was crucial to me because I learned a lot in terms of photo editing. 
-- This little project made me realize that with a bit of imagination, you can turn a plain photo into a decent piece of art.
-
+- Kind of a milestone project I did back in high school. I got this idea to turn a plain photo with pidgeons into something cooler. Something a little bit different, bizarre enough for people to know that it's my style. So, I let my own imagination naturally flow without trying too hard. The whole working process of this was crucial to me. I learned a lot in terms of photo editing and being a little more spontaneous.
 
 
 
@@ -69,11 +66,8 @@ A few of my projects I did recently.
 
 ![Neon blue and purple background with a yellow highlighted names of singers and bands and blue colored edge of a rock on the side.](img/music-festival-poster.jpg)
 
-- A concept poster for the United Islands of Prague Festival.
-
-- The path of making these was a bit tricky in the beginning due to the rather abstract topic – music outside. I had to think outside the box.
-
-- Fairly challenging project, but the newly learned skills and the final result felt rewarding.
+- I made this in my second year of college. This was a bit of a challenge for me because of the abstract brief - music as an element connecting people outside. It was yet another long path full of many obstacles 
+ making various concepts that ended up being discarded by my perfectionist self. But all the time I invested into it was worth it at the end.
 
 
 
@@ -84,10 +78,7 @@ A few of my projects I did recently.
 ![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a pink background with a yellow sign PF 2023.](img/xmas-postcard-1.jpg)
 ![Black silhouettes with faces of Johnny Rotten and Sid Vicious on a purple background with a pink sign PF 2023.](img/xmas-postcard-2.jpg)
 
-- A concept for New Year's cards as a school assignment.
-- I had fun while making these because we weren’t limited to anything in terms of the design. 
-- I love the result of this because I got to create an unconventional, unique postcard without limiting myself to just make a plain New Year's card design. 
-
+- Another college assignment. I knew that most of the others will probably choose the easiest path with the card design. So naturally, my goal was to stand out with my concept as much as possible. I had fun while making these because we weren’t really limited to anything in terms of the design. I love the result of this because I got to create an unconventional, unique postcard without limiting myself to just make a plain New Year's card.
 
 
 
@@ -96,10 +87,7 @@ A few of my projects I did recently.
 
 ![Black and white photo of Sex Pistols members in a chessboard composition on the left and black rectangle with a yellow sign EXISTENTIALIST in the middle and black and white photo of Sex Pistols members next to each other on the right.](img/book-cover-concept.jpg)
 
-- This is a book cover I did for a typography class assignment. 
-- Creating this helped me to think more freely while designing because there were no limitations with the book topic or design. 
-- It took me a while to come up with this, but I eventually managed to design it exactly the way I wanted to.
-
+- A typography assignment. Besides the cover, I also designed this small poetry book including existentialist poems written by amateur poets. I had to think a lot about what photos could accompany the poems and somewhat reflect the meaning behind them. And then, I realized it. My favorite punk band, Sex Pistols, had this philosophy stemming deeply from their childhood and later influences. *We only live here and now. Do what you love.* That's what deeply resonates with me. I think the combination of these archaic poems and the legendary punk band was on point.
 
 
   ## *Thanks!*
