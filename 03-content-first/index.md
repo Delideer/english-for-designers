@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-- [Content first](/index.md)
+- [Content first](../index.md)
 - [Design second](/english-for-designers/02-first-impression/Koukalova-draft-first-impression-2023.pdf) 
 
 
