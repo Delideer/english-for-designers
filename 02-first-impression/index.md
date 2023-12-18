@@ -112,6 +112,6 @@ A few of my projects I did recently.
 
 
   ## Check out my short essay based on the topic “One Word“:
-- [Naive](english-for-designers/writing/naive.md)
+- [Naive](naive.md)
 
 
