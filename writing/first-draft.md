@@ -1,6 +1,6 @@
 - [First Draft](first-draft.md) 
 - [Revision](revision.md) 
-- [Edit](index.md) 
+- [Edit](naive.md) 
 
 ## First Draft
 
