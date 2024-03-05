@@ -1,6 +1,6 @@
 # Voice, Tone, and Style (a draft for now...?)
 
-*Hi there, folks! I'm Adela. An ambitious graphic designer with attitude, style, and punk rock ethos ;).*
+*Hi there, folks! I'm Adela. An ambitious graphic designer with attitude, style, and punk rock ethos ;)*
 
 
 ## Voice
@@ -35,7 +35,7 @@ Although I've become more relaxed over the years, there're times where I focus o
 
 ## Style
 
-I tend to complicate things that aren't complicated at all :D. Thankfully, I keep my communication style as simple as I can.
+I tend to complicate things that aren't complicated at all :D Thankfully, I keep my communication style as simple as I can.
 
 
 
