@@ -5,7 +5,7 @@ by Adéla Koukalová
 15 April 2024
 
 
-Watch the video () //to be added
+[Watch the video](https://youtu.be/XvQitzJ1c4c)
 
 ## Intro
 
