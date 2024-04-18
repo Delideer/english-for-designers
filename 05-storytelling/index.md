@@ -4,8 +4,6 @@
 
 Audio version () //to be added
 
-Slides () //to be added
-
 
 Hi there! I'm Adela. Today I'd like to share with you a little story of my newfound love for books.
 
@@ -28,9 +26,5 @@ Not only that I found a relatable character that kept me invested in this book. 
 
 Discovering Norwegian Wood became this huge coming-of-age experience for me. I thought of how much I've changed since high school. I swear, I was 17 years old yesterday! Sometimes, you forget how quickly time passes by.
 
-Well, I figured that until December 2022, I hated books because of a past. When I wasn't sure about my actual interests. Because of a mere coincidence though, I got to learn a little more of who I am.
-Besides being an artist and a movie rat, I'm also kind of a bookworm. It makes me proud knowing I'm multidimensional!
-At the end of the day, anyone can enjoy reading. 
-You just gotta grow up a little and then find *your* genre.
-
+Well, I figured that until December 2022, I kind of hated books because of my past. But that was when I wasn’t sure about my actual interests. And because of mere chance, though, I got to know myself a little more. Besides being an artist and a movie rat, I’m a bit of a bookworm now. It makes me proud knowing I’m eclectic! Simply put, anyone can enjoy reading. I didn’t, but I do now. You just gotta grow up a little and then find your genre. 
 
