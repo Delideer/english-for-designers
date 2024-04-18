@@ -2,8 +2,8 @@
 
 2 April 2024
 
-Audio version () //to be added
 
+[Podcast ver.](assets/storytelling-podcast-version.mp3)
 
 Hi there! I'm Adela. Today I'd like to share with you a little story of my newfound love for books.
 
