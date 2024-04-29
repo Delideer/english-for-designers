@@ -7,6 +7,8 @@ by Adéla Koukalová
 
 [Watch the video](https://youtu.be/XvQitzJ1c4c)
 
+[Check the slides](images/thesis-lightning-talk-slides.pdf)
+
 ## Intro
 
 Hi there! I'm Adela. 
@@ -28,7 +30,7 @@ Sure, I wasn't quite thrilled about the fact that I'll have to work on it day an
 ## The initial process
 As I've mentioned before, I chose a visual identity rebrand for my thesis. I had no idea how much research you have to do before you can actually get to the fun part of creating the visuals!
 
-The thing is, you have to spend a lot of time deep diving into the main competition on the market first. If you don't know your enemy's strenghts and weaknesses, you can't even compete with them. The research was the hardest part of my thesis, as I didn't know where it was going. Sometimes, I didn't know where I was going either. It was a strange time for me. 
+The thing is, you have to spend a lot of time deep diving into the main competition on the market first. If you don't know your enemy's strengths and weaknesses, you can't even compete with them. The research was the hardest part of my thesis, as I didn't know where it was going. Sometimes, I didn't know where I was going either. It was a strange time for me. 
 
 But, I got to know the competition of Theatre D21, both from Czech Republic and across Europe. It was pretty exciting! My brain had later become used to staying awake for longer periods of time. Which is useful when there's a deadline creeping behind your back. Not like you have a choice, but you get what I mean. Anyway, it helped me a lot to envision what should the new visual identity actually look like.
 
@@ -60,7 +62,7 @@ The visual part does pose as an eyecandy here. But, the catchphrases are still p
 It sounds brutal at first, I know! But, the main point is that it plays with the idea of combining an old saying with a witty, dry humor. This is a good example of how D21 could present itself as an independent institution. 
 
 ## Merchandise
-Of course, I used the same concept on the merchandise as well. If this concept will ever become real, you guys can buy cool stuff! Like these T-shirts, hoodies, tote bages or even mugs!
+Of course, I used the same concept on the merchandise as well. If this concept will ever become real, you guys can buy cool stuff! Like these T-shirts, hoodies, tote bags or even mugs!
 
 The cool thing about these is that besides the visuals, they also have these catchphrases. They're different apart from the ones on socials and clothes, though. 
 
