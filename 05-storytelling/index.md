@@ -7,6 +7,10 @@
 
 Hi there! I'm Adela. Today I'd like to share with you a little story of my newfound love for books.
 
+
+![random girl reading a classic literature book](assets/girl-reading-classic-literature.jpg)
+
+
 To clarify, I was never much of a book person. More like a movie rat. My former hatred for reading books stemmed from high school. We had to read classic literature novels all the time. Back then, none of the stories were super relatable or interesting to me. That all changed around early December 2022. It was a few weeks before Christmas.
 
 So, one cold day in December, I happened to have a day off. I wasn't doing anything in particular. I was daydreaming and listening to a catchy japanese pop song from the 80‘s on Youtube. But the music was a mere accessory to me as I was staring blankly into the wall. I tend to do that every now and then. It's actually a very relaxing activity, you should try it sometime!
@@ -18,6 +22,8 @@ It was actually a fanmade music video with this peculiar song playing in the bac
 
 Out of curiousity, I looked up the name of the movie. It's called Norwegian Wood. I found out that this movie is actually an adaptation based on a book from 1987 with the same name.
 It tells the story about this introverted japanese college student Tohru Watanabe. Besides reading books and listening to jazz, he doesn't enjoy life that much. Until he starts a tumultuous relationship with his old high school friend Naoko. The girl is nice and definitely turns him on, but she also has her darker side. Their on-and-of relationship plays a huge part in the story. It starts to change Tohru's approach to life long before he even realizes it.
+
+![japanese couple walking together](assets/why-is-all-this-happening-with-me.jpg)
 
 After Christmas Eve, you guys can probably imagine how quickly I read this book. It had a little over 300 pages and I managed to finish reading it in about a week. For me, that was quite an achievement.
 For years, I thought I had already forgot how to read! This experience proved me wrong. Like, wow! "She actually enjoys reading".
