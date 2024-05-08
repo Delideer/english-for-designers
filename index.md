@@ -12,11 +12,23 @@ Oh, and I’ve got an epic backstory too! Learn more [about me](about.md).
 
 ## Here's the list of all the assignments I did for English class. Be sure to check these as well! ;)
 
-1. [One Word](first-draft.md/)
-2. [First Impression](Koukalova-draft-first-impression-2023.pdf/)
-3. [Content First](index.md/)
-4. [Voice, Tone and Style](index.md/)
-5. [Storytelling](index.md/)
-6. [Thesis lightning talk](index.md/)
-7. [Year in review](index.md/)
+ **Writings**:
+ 
+ - [One Word](first-draft.md/)
+ 
+ - [First Impression](Koukalova-draft-first-impression-2023.pdf/)
+ 
+ - [Content First](index.md/)
+ 
+ - [Voice, Tone and Style](index.md/)
+ 
+ - [Year in review](index.md/)
+ 
+
+ **Talks**:
+ 
+- [Storytelling](index.md/)
+ 
+- [Thesis lightning talk](index.md/)
+
    
