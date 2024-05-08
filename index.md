@@ -14,21 +14,21 @@ Oh, and I’ve got an epic backstory too! Learn more [about me](about.md).
 
  **Writings**:
  
- - [One Word](first-draft.md/)
+ - [One Word](01-one-word/first-draft.md/)
  
- - [First Impression](Koukalova-draft-first-impression-2023.pdf/)
+ - [First Impression](02-first-impression/Koukalova-draft-first-impression-2023.pdf/)
  
- - [Content First](index.md/)
+ - [Content First](03-content-first/index.md/)
  
- - [Voice, Tone and Style](index.md/)
+ - [Voice, Tone and Style](04-voice-tone-style/index.md/)
  
- - [Year in review](index.md/)
+ - [Year in review](07-year-in-review/index.md/)
  
 
  **Talks**:
  
-- [Storytelling](index.md/)
+- [Storytelling](05-storytelling/index.md/)
  
-- [Thesis lightning talk](index.md/)
+- [Thesis lightning talk](06-thesis/index.md/)
 
    
