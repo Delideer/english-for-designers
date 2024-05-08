@@ -5,7 +5,7 @@ by Adéla Koukalová
 15 April 2024
 
 
-[Watch the video](https://youtu.be/XvQitzJ1c4c)
+[Watch the video](images/thesis-lightning-talk-koukalova.mp4)
 
 [Check the slides](images/thesis-lightning-talk-slides.pdf)
 
