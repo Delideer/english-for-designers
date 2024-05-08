@@ -2,6 +2,11 @@
 
 *Hi there, folks! I'm Adela. An ambitious graphic designer with attitude, style, and punk rock ethos ;)*
 
+The following picture is my very first draft of the Venn diagram. It worked as a great foundation for this assignment.
+
+
+![venn diagram first draft drawing](venn-diagram-koukalova.jpg) 
+
 
 ## Voice
 
