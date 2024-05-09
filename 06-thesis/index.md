@@ -44,17 +44,31 @@ The theatre's main financial profit are sponsorships, so their budget is general
 ## The key visuals
 But now to the lighter topic, I'm gonna show you everything I've designed for the practical part of the thesis.
 
-The main part are the key visuals. I decided to keep the current logo, because I thought it could be a great foundation for the new visual identity. 
-
+The main part are the key visuals. I decided to keep the current logo, because I thought it could be a great foundation for the new visual identity.
 It's these two simple lines coming off from the logo that later became the key part of it all. It works as this small house that lets in whatever the theatre has in stock in its repertoire. 
 
-For example, here are the promotional posters. The visual part are these two lines. In the between, there's a composition of a photo and a simple illustration. 
+![simple theatre logo](images/d21-logo.jpg) 
 
-It's an abstract representation of both classic and modern elements in the theatre. This is how it'd look like on a citylight. 
+
+For example, here are the promotional posters. The visual part are these two lines. In the between, there's a composition of a photo and a simple illustration. 
+It's an abstract representation of both classic and modern elements in the theatre. 
+
+
+
+![theatre promo colorful posters](images/promo-posters-D21.jpg) 
+
+
+This is how it'd look like on a citylight. 
+
+![citylight with a theatre logo](images/citylight-d21-werther.jpg) 
 
 Its vibrant colors are so hard to ignore that you'll have to take one look at it. 
 
 Based on this, I came up with a new catchphrase for Theatre D21. “Where the classic dates the modern.” I used this in copywriting also. On social networks like Instagram and Facebook.
+
+![facebook promo colorful posts](images/D21-FB-komplet.jpg) 
+
+![instagram promo colorful posts](images/D21-ig-pygmalion.jpg) 
 
 ## Copywriting
 The visual part does pose as an eyecandy here. But, the catchphrases are still present while promoting each play. It's because it generally helps people. To get a better idea about not only the play itself, but also Theatre D21's personality. The Sorrows of Young Werther slogan from Goethe says this. “What doesn't kill you will shoot you.” 
@@ -66,10 +80,26 @@ Of course, I used the same concept on the merchandise as well. If this concept w
 
 The cool thing about these is that besides the visuals, they also have these catchphrases. They're different apart from the ones on socials and clothes, though. 
 
+![black tshirt with a colorful print](images/damske-triko-volne-D21.jpg) 
+
+![black hoodies with colorful print](images/mikiny-komplet-D21.jpg) 
+
+![black tote bags with colorful print](images/tote-bags-komplet-D21.jpg) 
+
+![black mugs with colorful print](images/hrnky-komplet-d21.jpg) 
+
 For example, this mug says: “The coffee's bitter than Werther's heart.” It's meant to pose as a funny reference to let you know you're not drinking from a regular mug but from the *Theater D21 mug*! 
 
 ## Digital and printed promotion
 Besides that, I also made these mockups. You know, how it'd look on a webpage, newsletter or even an annual report. Last but not least, I did this funky A5 theatre booklet with the newest plays in the repertoire.
+
+![theatre d21 webpage preview](images/Web-mobil-d21.jpg) 
+
+![theatre d21 newsletter preview](images/newsletter-mobil-D21.jpg) 
+
+![theatre d21 annual report preview](images/vyrocni-zprava-d21-preview.jpg) 
+
+![theatre d21 booklet preview](images/divadelni-program-booklet-d21.jpg) 
 
 ## The main takeaway
 
